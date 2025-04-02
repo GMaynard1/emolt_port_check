@@ -58,6 +58,7 @@
 # New Jersey
 
 - Atlantic City
+- Barnegat Light -- Added 2025-04-02
 - Cape May
 - Point Pleasant
 
