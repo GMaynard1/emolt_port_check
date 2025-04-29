@@ -65,3 +65,11 @@
 # Maryland
 
 - Ocean City
+
+# Virginia
+
+- Hampton
+
+# North Carolina
+
+- Beaufort
