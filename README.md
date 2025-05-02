@@ -27,6 +27,7 @@
 - Barnstable
 - Chatham (Chatham Center)
 - Cohasset
+- Cotuit
 - Dennis
 - Fairhaven
 - Gloucester
