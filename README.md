@@ -40,6 +40,7 @@
 - Provincetown Wharf
 - Sandwich (Sandwich Center)
 - Scituate
+- Woods Hole -- Added 2025-05-13
 
 # Rhode Island
 
@@ -59,6 +60,7 @@
 # New Jersey
 
 - Atlantic City
+- Barnegat -- Added 2025-05-13
 - Barnegat Light -- Added 2025-04-02
 - Cape May
 - Point Pleasant
