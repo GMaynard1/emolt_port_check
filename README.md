@@ -9,6 +9,7 @@
 - Isleford
 - Jonesport
 - Kittery
+- Moose Harbor
 - Portland
 - South Bristol
 - Stonington
@@ -47,6 +48,7 @@
 - Block Island
 - Newport
 - Point Judith
+- Quonset -- Added 2025-05-19
 
 # Connecticut
 
